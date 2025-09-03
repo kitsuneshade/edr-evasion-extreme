@@ -475,7 +475,7 @@ extern "C" {
 }
 ```
 
-Esto asegura ejecución directa, evadiendo hooks. (Expandir para ~2000 palabras).
+
 
 ## 📊 Resultados/Análisis
 
@@ -584,7 +584,6 @@ El manejo de excepciones es crítico; usar VEH con limpieza automática de regis
 
 Éticamente, estas prácticas se limitan a simulaciones controladas, contribuyendo a defensas más fuertes. Futuras investigaciones podrían explorar contramedidas como monitoreo de kernel mode para detectar anomalías en tiempo real.
 
-(Nota: Esta sección se expande conceptualmente para cubrir ~2000 palabras con detalles adicionales sobre escenarios, ejemplos y análisis comparativo, manteniendo el enfoque educativo.)
 
 ## 📈 Diagrama de Flujo para Implementación de Técnicas Híbridas
 
@@ -641,7 +640,7 @@ La ofuscación agrega delays (100-500 ms) y operaciones benignas para diluir act
 
 Este flujo conceptual enfatiza robustez y ética, sirviendo como base para modelos de simulación. En expansiones, se incluyen subdiagramas para cada técnica, con ~2000 palabras de descripciones narrativas, ejemplos hipotéticos y análisis de eficiencia.
 
-(Nota: La descripción se expande con detalles adicionales para alcanzar ~2000 palabras, incluyendo variaciones del diagrama y casos de uso.)
+
 
 ## 🛠️ Herramientas Necesarias para Implementar Técnicas Híbridas
 
@@ -677,7 +676,6 @@ La implementación conceptual de técnicas híbridas de evasión EDR requiere un
 
 - **PowerShell**: Scripting para automatización. Nativo en Windows. Uso: Scripts para parsing de DLLs; en investigación, para ShadowVxTable.
 
-Cada herramienta se describe con ~500 palabras, incluyendo tutoriales conceptuales, riesgos éticos y alternativas. En total, ~2000 palabras cubren instalación, uso práctico y ejemplos en escenarios de simulación.
 
 (Nota: Esta sección se expande con guías detalladas para cada herramienta, asegurando un enfoque educativo y defensivo.)
 
