@@ -390,8 +390,7 @@ pub unsafe fn extract_syscall_entry(
     // ...
 }
 ```
-
-Esta implementación permite obtener syscalls dinámicos, evadiendo detección estática. (Palabras: ~850, expandir a ~2000 con más detalles).
+.
 
 **10. Técnica de Spoofing con Hardware Breakpoints**
 
