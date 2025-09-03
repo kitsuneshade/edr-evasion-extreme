@@ -441,7 +441,7 @@ pub fn memory_protection_wrapper(syscall_num: u16, ...) -> i32 {
 }
 ```
 
-Esto permite polimorfismo, evadiendo detección. (Expandir con más detalles para ~2000 palabras).
+
 
 **11. Técnica de Tartarus Gate**
 
@@ -638,7 +638,7 @@ En HellsGate/HellDescent, se prepara el contexto en ensamblador x64, cargando el
 
 La ofuscación agrega delays (100-500 ms) y operaciones benignas para diluir actividad detectable. Finalmente, se verifica detección mediante simulaciones de logs, iterando si es necesario.
 
-Este flujo conceptual enfatiza robustez y ética, sirviendo como base para modelos de simulación. En expansiones, se incluyen subdiagramas para cada técnica, con ~2000 palabras de descripciones narrativas, ejemplos hipotéticos y análisis de eficiencia.
+
 
 
 
